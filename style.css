@@ -1,0 +1,20 @@
+.div {
+    background-color: lightgray;
+}
+
+h1 {
+    color: red;
+    background-color: azure;
+}
+
+div {
+    h1 {
+        color: greenyellow;
+        background-color: azure;
+    }
+
+    h2 {
+        color: blueviolet;
+        background-color: azure;
+    }
+}
